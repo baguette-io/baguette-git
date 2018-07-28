@@ -6,9 +6,9 @@ from setuptools import find_packages, setup
 
 setup(
     name='baguette-git',
-    version='0.1',
-    url='baguette.io',
-    author_email='dev@baguette.io',
+    version='0.10',
+    url='https://www.baguette.io',
+    author_email='pydavid@baguette.io',
     packages=find_packages(),
     platforms=[
         'Linux/UNIX',
